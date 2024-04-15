@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm currently a DevOps Administrator interested in becoming a front-end or full-stack web developer. I have extensive experience with AWS and am getting more and more comfortable with web, mobile, and API development every day.</p>
+<p align="left">DevOps Administrator transitioning to Front-End and Full-Stack Web Development. With a solid foundation in AWS, I am continually enhancing my skills in web, mobile, and API development. My journey from infrastructure management to building engaging user experiences motivates me to push the boundaries of what I can create.</p>
 
 ###
 
