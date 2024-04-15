@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h2 align="left">👋 Hi there!</h2>
+<h2 align="left">👋 Hi there! A little bit about me...</h2>
 
 ###
 
