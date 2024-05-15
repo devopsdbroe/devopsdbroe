@@ -1,10 +1,10 @@
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png)
 
 <h2 align="left">👋 Hi there! A little bit about me...</h2>
 
 ###
 
-<p align="left">DevOps Administrator working to become a Front-End or Full-Stack developer. With a solid foundation in AWS, I am continually enhancing my skills in web, mobile, and API development. My journey from infrastructure management to building engaging user experiences motivates me to push the boundaries of what I can create.</p>
+<p align="left">DevOps Administrator working to become a Front-End or Full-Stack developer. With a solid foundation in AWS, I am continually enhancing my skills in web, mobile, and API development. My journey from infrastructure management to building engaging user experiences motivates me to push the boundaries of what I can create.</p>-->
 
 ###
 
